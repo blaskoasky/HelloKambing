@@ -9,5 +9,7 @@ public class Main {
         System.out.println("Pepeng Tampan");
 
         System.out.println("Pepeng Jelek");
+
+        System.out.println("Pepeng Ketiga");
     }
 }
